@@ -1,0 +1,6 @@
+@takehomelvl8_HostAddress = http://localhost:5278
+
+GET {{takehomelvl8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
